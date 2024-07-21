@@ -14,9 +14,13 @@
 
 ## 📷 Screenshot
 
-![Screenshot](screenshots/extension.png?raw=true#gh-light-mode-only)
+![Screenshot](screenshots/extension.png?raw=true)
 
-![Screenshot (Dark Mode)](screenshots/dark.png?raw=true#gh-dark-mode-only)
+## 🤝 Sponsors
+
+<a href="https://getstream.io/chat/sdk/react/?utm_source=github&utm_medium=referral&utm_content=&utm_campaign=wong2">
+  <img src="screenshots/stream-logo.jpg" width="200" />
+</a>
 
 ## ✨ Features
 
